@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     2: {
       title: "Concert Photography",
-      description: "Concert photos from a variety of bands and artistz.",
+      description: "Concert photos from a variety of bands and artists.",
       images: [
         "https://i.imgur.com/8ABpxiG.jpeg",
         "https://i.imgur.com/VHN9pz6.jpeg",
